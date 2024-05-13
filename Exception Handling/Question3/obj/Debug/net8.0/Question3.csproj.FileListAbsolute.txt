@@ -1,0 +1,14 @@
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\bin\Debug\net8.0\Question3.exe
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\bin\Debug\net8.0\Question3.deps.json
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\bin\Debug\net8.0\Question3.runtimeconfig.json
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\bin\Debug\net8.0\Question3.dll
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\bin\Debug\net8.0\Question3.pdb
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\Question3.AssemblyInfoInputs.cache
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\Question3.AssemblyInfo.cs
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\Question3.csproj.CoreCompileInputs.cache
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\Question3.dll
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\refint\Question3.dll
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\Question3.pdb
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\Question3.genruntimeconfig.cache
+D:\ExerciseInClass\ExceptionHandling\Question1\Question3\obj\Debug\net8.0\ref\Question3.dll

@@ -1,0 +1,14 @@
+D:\ExerciseInClass\For Loop\Question1\Question14\bin\Debug\net8.0\Question14.exe
+D:\ExerciseInClass\For Loop\Question1\Question14\bin\Debug\net8.0\Question14.deps.json
+D:\ExerciseInClass\For Loop\Question1\Question14\bin\Debug\net8.0\Question14.runtimeconfig.json
+D:\ExerciseInClass\For Loop\Question1\Question14\bin\Debug\net8.0\Question14.dll
+D:\ExerciseInClass\For Loop\Question1\Question14\bin\Debug\net8.0\Question14.pdb
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\Question14.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\Question14.AssemblyInfoInputs.cache
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\Question14.AssemblyInfo.cs
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\Question14.csproj.CoreCompileInputs.cache
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\Question14.dll
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\refint\Question14.dll
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\Question14.pdb
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\Question14.genruntimeconfig.cache
+D:\ExerciseInClass\For Loop\Question1\Question14\obj\Debug\net8.0\ref\Question14.dll

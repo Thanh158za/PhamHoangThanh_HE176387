@@ -1,0 +1,14 @@
+D:\ExerciseInClass\Data Types\Question1\Question8\bin\Debug\net8.0\Question8.exe
+D:\ExerciseInClass\Data Types\Question1\Question8\bin\Debug\net8.0\Question8.deps.json
+D:\ExerciseInClass\Data Types\Question1\Question8\bin\Debug\net8.0\Question8.runtimeconfig.json
+D:\ExerciseInClass\Data Types\Question1\Question8\bin\Debug\net8.0\Question8.dll
+D:\ExerciseInClass\Data Types\Question1\Question8\bin\Debug\net8.0\Question8.pdb
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\Question8.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\Question8.AssemblyInfoInputs.cache
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\Question8.AssemblyInfo.cs
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\Question8.csproj.CoreCompileInputs.cache
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\Question8.dll
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\refint\Question8.dll
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\Question8.pdb
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\Question8.genruntimeconfig.cache
+D:\ExerciseInClass\Data Types\Question1\Question8\obj\Debug\net8.0\ref\Question8.dll

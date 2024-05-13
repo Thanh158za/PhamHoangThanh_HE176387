@@ -1,0 +1,14 @@
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\bin\Debug\net8.0\Question17.exe
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\bin\Debug\net8.0\Question17.deps.json
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\bin\Debug\net8.0\Question17.runtimeconfig.json
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\bin\Debug\net8.0\Question17.dll
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\bin\Debug\net8.0\Question17.pdb
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\Question17.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\Question17.AssemblyInfoInputs.cache
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\Question17.AssemblyInfo.cs
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\Question17.csproj.CoreCompileInputs.cache
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\Question17.dll
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\refint\Question17.dll
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\Question17.pdb
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\Question17.genruntimeconfig.cache
+D:\ExerciseInClass\Basic Algorithm\Question1\Question17\obj\Debug\net8.0\ref\Question17.dll

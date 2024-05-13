@@ -1,0 +1,14 @@
+D:\ExerciseInClass\Basic\Question3\bin\Debug\net8.0\Question3.exe
+D:\ExerciseInClass\Basic\Question3\bin\Debug\net8.0\Question3.deps.json
+D:\ExerciseInClass\Basic\Question3\bin\Debug\net8.0\Question3.runtimeconfig.json
+D:\ExerciseInClass\Basic\Question3\bin\Debug\net8.0\Question3.dll
+D:\ExerciseInClass\Basic\Question3\bin\Debug\net8.0\Question3.pdb
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\Question3.AssemblyInfoInputs.cache
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\Question3.AssemblyInfo.cs
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\Question3.csproj.CoreCompileInputs.cache
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\Question3.dll
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\refint\Question3.dll
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\Question3.pdb
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\Question3.genruntimeconfig.cache
+D:\ExerciseInClass\Basic\Question3\obj\Debug\net8.0\ref\Question3.dll

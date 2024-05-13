@@ -1,0 +1,14 @@
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\bin\Debug\net8.0\Question24.exe
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\bin\Debug\net8.0\Question24.deps.json
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\bin\Debug\net8.0\Question24.runtimeconfig.json
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\bin\Debug\net8.0\Question24.dll
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\bin\Debug\net8.0\Question24.pdb
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\Question24.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\Question24.AssemblyInfoInputs.cache
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\Question24.AssemblyInfo.cs
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\Question24.csproj.CoreCompileInputs.cache
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\Question24.dll
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\refint\Question24.dll
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\Question24.pdb
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\Question24.genruntimeconfig.cache
+D:\ExerciseInClass\Conditional Statement\Question1\Question24\obj\Debug\net8.0\ref\Question24.dll

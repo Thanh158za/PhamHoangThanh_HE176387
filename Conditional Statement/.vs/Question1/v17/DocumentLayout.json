@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExerciseInClass\\Conditional Statement\\Question1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8302FE2-5579-4D22-879D-F7EF001C9108}|Question24\\Question24.csproj|d:\\exerciseinclass\\conditional statement\\question1\\question24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8302FE2-5579-4D22-879D-F7EF001C9108}|Question24\\Question24.csproj|solutionrelative:question24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExerciseInClass\\Conditional Statement\\Question1\\Question24\\Program.cs",
+              "RelativeDocumentMoniker": "Question24\\Program.cs",
+              "ToolTip": "D:\\ExerciseInClass\\Conditional Statement\\Question1\\Question24\\Program.cs",
+              "RelativeToolTip": "Question24\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwD0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:00:34.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
